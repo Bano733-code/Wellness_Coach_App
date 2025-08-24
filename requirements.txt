@@ -1,0 +1,8 @@
+pythton
+streamlit
+altair
+pandas
+# Groq API
+groq
+# Multilingual support
+deep_translator
